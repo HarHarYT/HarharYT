@@ -1,10 +1,2 @@
-
-
-
-#### Languages
-+ ![Python](https://img.shields.io/badge/-Python-FF008F)
-+ ![Node Js](https://img.shields.io/badge/-Js-FF008F)
-
-#### Cool Stuff
-![Languages Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=pirxcyfinal&show_icons=true&theme=radical)
-![Stats](https://github-readme-stats.vercel.app/api?username=HarharYT&show_icons=true&theme=radical)
+### GitHub Profile Summery:
+<img src="/githubProfile_Matrics_1.svg" alt="Metrics" width="100%">
